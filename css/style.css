@@ -1,0 +1,151 @@
+body{
+
+}
+
+img.wheel_logo {
+    width: 24%;
+    margin-top: -4px;
+}
+
+nav.navbar.navbar-default.wheel_nav {
+    background: #343434;
+    width: 100%;
+    border-radius: 0;
+}
+
+.wheel_first_dropdown button.btn.btn-default.dropdown-toggle {
+    color: #fff;
+    font-size: 12px;
+}
+
+ul.nav.navbar-nav.navbar-right.wheel_nav_right li a {
+    color: #fff;
+}
+
+ul.nav.navbar-nav.navbar-right.wheel_nav_right li a.active {
+    color: #fff;
+    background-color: transparent;
+}
+
+span.hint_txt {
+    color: rgb(184, 184, 184);
+    font-size: 10px;
+    margin-top: 0;
+}
+
+.promo_wrap {
+    position: relative;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+input.input_style {
+    height: 40px;
+    padding: 6px 12px;
+    background: #f7f7f7;
+    border: 1px solid #d6d6d6;
+    width: 76%;
+}
+
+button.btn.btn-primary.btn_promo {
+    margin: 0;
+    height: 40px;
+    border-radius: 0;
+    background: #0262ac;
+    display: inline-block;
+    position: absolute;
+}
+
+span.green_txt {
+    color: rgb(30, 147, 128);
+}
+
+button.btn.btn-primary.btn_payment {
+    background: #01a185;
+    width: 100%;
+    font-size: 20px;
+    border-radius: 0;
+    border: 0;
+}
+
+footer {
+    background: #343434;
+    color: #fff;
+    padding: 3%;
+}
+
+img.footer_logo {
+    width: 100%;
+}
+
+.social_wrap {
+    margin-top: 10%;
+}
+
+.social_wrap ul {
+    list-style: none;
+    font-size: 1.5em;
+}
+
+.social_wrap ul li {
+    display: inline-block;
+    width: 40px;
+    text-align: center;
+    line-height: 2;
+    height: 40px;
+    background: rgb(111, 111, 111);
+    border-radius: 100%;
+}
+
+img.vespa_img {
+    width: 100%;
+}
+
+span.close {
+    font-size: 10px;
+    background: #ededed;
+    height: 15px;
+    width: 15px;
+    text-align: center;
+    line-height: 1.5;
+    border-radius: 100%;
+    border: 1px solid;
+}
+
+p.address_txt {
+    font-size: 11px;
+}
+
+span.arrow_right {
+    position: relative;
+    bottom: 26px;
+    float: right;
+}
+
+.panel.panel-info.wheel_panel_left {
+    background: #fff;
+    border-color: #ccc;
+    color: #000;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.panel.panel-info.wheel_panel_left.panel-info>.panel-heading {
+    background: #fff;
+    border-bottom: 1px solid #bfbfbf;
+    color: #000;
+}
+
+.panel.panel-info.wheel_panel_right {
+    background: #fff;
+    border-color: #ccc;
+    color: #000;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.panel.panel-info.wheel_panel_right.panel-info>.panel-heading {
+    background: #fff;
+    border-bottom: 1px solid #bfbfbf;
+    color: #000;
+}
